@@ -39,7 +39,7 @@ Simple task manager with add, edit, and delete features.
 
 ## 🔹 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-mamdouh-a7024b375)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: ahmedmamdouhah30@gmail.com  
 - 🌐 Portfolio Website: (coming soon!)  
 
 ---
