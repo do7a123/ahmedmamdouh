@@ -27,7 +27,7 @@ Welcome to my GitHub! I combine my background in **Accounting & Finance** with g
 ### 📌 [Smart Reminder App](https://github.com/do7a123/smartreminder.git)  
 A web app to manage reminders with future integration to Django backend.  
 
-### 📌 [elder care](https://github.com/yourusername/parent-dashboard)  
+### 📌 [elder care](https://github.com/do7a123/Eldercare.git)  
 A PHP/MySQL dashboard for children to track parent health, reminders, and notifications this was my grad projrct to uni.  
 
 ### 📌 [To-Do List App](https://github.com/yourusername/todo-list)  
