@@ -40,7 +40,7 @@ Simple task manager with add and delete features.
 ## 🔹 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-mamdouh-a7024b375)  
 - 📧 Email: ahmedmamdouhah30@gmail.com  
-- 🌐 Portfolio Website: (coming soon!)  
+- 🌐 [Portfolio Website](https://github.com/do7a123/portfolio.git) 
 
 ---
 ⭐️ Feel free to explore my repos and connect with me!
