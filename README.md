@@ -30,10 +30,10 @@ A web app to manage reminders with future integration to Django backend.
 ### 📌 [elder care](https://github.com/do7a123/Eldercare.git)  
 A PHP/MySQL dashboard for children to track parent health, reminders, and notifications this was my grad projrct to uni.  
 
-### 📌 [To-Do List App](https://github.com/yourusername/todo-list)  
-Simple task manager with add, edit, and delete features.  
+### 📌 [To-Do List App](https://github.com/do7a123/todo-list.git)  
+Simple task manager with add and delete features.  
 
-*(Add screenshots in each repo to make it more visual!)*  
+
 
 ---
 
